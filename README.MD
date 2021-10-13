@@ -8,4 +8,6 @@ En el presente trabajo nos enfocamos en las siguientes funcionalidades
 ## Prototipos
 
 ![telegram-personas-cerca](https://user-images.githubusercontent.com/92350303/137069007-c5e6ca1e-a77b-4ffc-a67d-28da5e0cc9a4.jpg)
+![image](https://user-images.githubusercontent.com/92350303/137070905-9acfe99d-497a-4bb5-8151-f503339ed41c.png)
+
 
