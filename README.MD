@@ -21,3 +21,4 @@ En el presente trabajo nos enfocamos en las siguientes funcionalidades
 ![image](https://user-images.githubusercontent.com/92350303/137070905-9acfe99d-497a-4bb5-8151-f503339ed41c.png)
 
 
+![CU_GENERAL](https://user-images.githubusercontent.com/82779333/137084293-cecbf208-07e9-4f89-86b2-31f0910b0497.PNG)
