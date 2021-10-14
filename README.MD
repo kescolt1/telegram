@@ -22,17 +22,33 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 ## Editar o eliminar mensaje
 ![CasoUso1](https://user-images.githubusercontent.com/82779333/137085163-84f1b033-afec-4776-8963-3b3aef9f193d.PNG)
 
+## Registrarse en telegram
+![sam2](https://user-images.githubusercontent.com/82779333/137235225-e5c10c27-0aa9-48d0-8f77-05cd9b3f22e8.PNG)
+
+## Actualizar informacion
+![sam1](https://user-images.githubusercontent.com/82779333/137235265-b7612c45-1628-4f77-96cc-1a9a0e3fe791.PNG)
+
+
+
  
 # Prototipos
 ## Personas cerca
 ![telegram-personas-cerca](https://user-images.githubusercontent.com/92350303/137069007-c5e6ca1e-a77b-4ffc-a67d-28da5e0cc9a4.jpg)
+
 ## Invitar amigos
 ![image](https://user-images.githubusercontent.com/92350303/137070905-9acfe99d-497a-4bb5-8151-f503339ed41c.png)
+
 ## Crear canales
 ![CreacionCanal2](https://user-images.githubusercontent.com/82779333/137085197-f280ed2f-7cac-4ddb-ab07-06fdd2b0b6d5.PNG)
 
 ## Editar o eliminar mensaje
 ![EditarMsj](https://user-images.githubusercontent.com/82779333/137085225-3961ea90-915e-4026-b165-830c071a0735.PNG)
+
+## Registrarse en telegram
+![sam3](https://user-images.githubusercontent.com/82779333/137235351-489f316d-49be-4698-bcc0-789232180120.PNG)
+
+## Actualizar informacion
+![sam4](https://user-images.githubusercontent.com/82779333/137235403-a8678cb1-787b-4cb0-8065-e4bf4eb4ae83.PNG)
 
 
 
